@@ -4,6 +4,8 @@ Lakes have been observed as sentinels of climate change, both directly and indir
 
 The overarching objective of the Lakes project (https://climate.esa.int/en/projects/lakes/) funded by ESA,  is to produce and validate a consistent data set of the variables grouped under the Lakes ECV.
 
+Contact: cci-lakes.contact@groupcls.com
+
 The objective of this repository is to group a set of scripts than may be useful for the lakes_cci data user community 
 
 Available scripts:
