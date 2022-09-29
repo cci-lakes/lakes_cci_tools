@@ -1,6 +1,10 @@
 # lakes_cci_tools
 
-The objective of this repository is to group a set of scripts than may be usefule for the lakes_cci data user community 
+Lakes have been observed as sentinels of climate change, both directly and indirectly through watershed changes. Lakes integrate responses over time and studies of globally distributed lakes can capture different aspects of climate change. Therefore, a global and consistent climate data record of lakes is essential to mitigate and adapt to climate change. 
+
+The overarching objective of the Lakes project (https://climate.esa.int/en/projects/lakes/) funded by ESA,  is to produce and validate a consistent data set of the variables grouped under the Lakes ECV.
+
+The objective of this repository is to group a set of scripts than may be useful for the lakes_cci data user community 
 
 Available scripts:
 
