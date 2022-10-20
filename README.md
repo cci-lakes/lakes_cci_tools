@@ -10,6 +10,6 @@ The objective of this repository is to group a set of scripts than may be useful
 
 Available scripts:
 
-* lakes_cci_download.ipynb : a jupyter notebook to download files on a defined zone and period of time. Daily output files include all the ECV variables
+* <b>lakes_cci_download.ipynb</b> : a jupyter notebook to download files on a defined zone and period of time. Daily output files include all the ECV variables
 
-* lakes_cci_download1lake_by_id.ipynb: a jupyter notebook to downlad files for a given lake. Daily output files include all the ECV variables
+* <b>lakes_cci_download1lake_by_id.ipynb</b>: a jupyter notebook to downlad files for a given lake. Daily output files include all the ECV variables
