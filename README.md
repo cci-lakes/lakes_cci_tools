@@ -14,4 +14,7 @@ Available scripts:
 
 * <b>lakes_cci_download1lake_by_id.ipynb</b>: a jupyter notebook to downlad files for a given lake. Daily output files include all the ECV variables. This script is useful for dowloading data for a single lake. Information about its boundaries is not required.
 
+* <b>lakes_cci_download1variable1lake_by_id.ipynb</b>: a jupyter notebook to download a single variable for a given lake based in the lakes_cci id. 
+
 * <b>lakes_cci_data_availability.ipynb</b>: a jupyter notebook to visualize data product available for a given lake during a period of time. This script is useful for identifying the files to be download.
+
