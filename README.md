@@ -18,3 +18,5 @@ Available scripts:
 
 * <b>lakes_cci_data_availability.ipynb</b>: a jupyter notebook to visualize data product available for a given lake during a period of time. This script is useful for identifying the files to be download.
 
+* <b>lakes_cci_mean_timeseries.ipynb</b>: a jupyter notebook to generate a timeseries of the mean value of a variable for a lake_id for lakes_cci version 2.1.0
+
