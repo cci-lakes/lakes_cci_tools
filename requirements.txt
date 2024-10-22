@@ -1,7 +1,5 @@
 datetime
-h5netcdf
 matplotlib
 netcdf4
 numpy
 pandas
-xarray
