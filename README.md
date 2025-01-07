@@ -20,3 +20,5 @@ Available scripts:
 
 * <b>lakes_cci_mean_timeseries.ipynb</b>: a jupyter notebook to generate a timeseries of the mean value of a variable for a lake_id for lakes_cci version 2.1.0
 
+* <b>lakes_cci_binder.ipynb</b>: this jupyter notebook allows to generate a set of figures relating to a variable for a lake in lakes_cci version 2.1.0 based in its id. It is adapted to be executed via Binder (https://mybinder.org/)
+
